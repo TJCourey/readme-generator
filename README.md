@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-  # ReadMe generator
+  # Readme Generator
 
   # Table of Contents
   * [Installation](#installation)
@@ -10,23 +10,22 @@
   * [Credits](#credits)
   * [License](#license)
   * [Features](#features)
-  * [How To Contribute](#how to contribute)
 
   ## Description
 
-  This is a quick and easy way to create a readme for projects in github. It is launched through node.
+  Dynamically generates a readme.md file for use on projects
 
   ## Installation
 
-  No. simply download the necessary files and run on your local system.
+  No onstallation necessary just run in terminal or console
 
   ## Usage
 
-  Download all the necessary files off of my github and run in node terminal or via the console in VS Code
+  run the index.js file with node
 
   ## Credits
 
-  NodeJS, JavaScript, Inquirer
+  Inquirer, JavaScript, VS Code, FS
 
   ## License
 
@@ -35,7 +34,7 @@
   
   ## Features
 
-  ^C
+  Auto generates a readme with license options available
 
   ## How to Contribute
 
