@@ -1,42 +1,39 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Readme Generator
 
+# Table of Contents
 
-  # Readme Generator
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
 
-  # Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
-  * [Features](#features)
+## Description
 
-  ## Description
+Dynamically generates a readme.md file for use on projects
 
-  Dynamically generates a readme.md file for use on projects
+## Installation
 
-  ## Installation
+No installation necessary just run in terminal or console
 
-  No onstallation necessary just run in terminal or console
+## Usage
 
-  ## Usage
+run the index.js file with node
 
-  run the index.js file with node
+## Credits
 
-  ## Credits
+Inquirer, JavaScript, VS Code, FS
 
-  Inquirer, JavaScript, VS Code, FS
+## License
 
-  ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Features
 
-  
-  ## Features
+Auto generates a readme with license options available
 
-  Auto generates a readme with license options available
+## How to Contribute
 
-  ## How to Contribute
-
-  No contribution necessary, feedback always appreciated.
-
+No contribution necessary, feedback always appreciated.
