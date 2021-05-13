@@ -1,31 +1,43 @@
-# fas
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+  # ReadMe generator
+
+  # Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Features](#features)
+  * [How To Contribute](#how to contribute)
 
   ## Description
 
-  afd
+  This is a quick and easy way to create a readme for projects in github. It is launched through node.
 
   ## Installation
 
-  asdf
+  No. simply download the necessary files and run on your local system.
 
   ## Usage
 
-  asdfasd
+  Download all the necessary files off of my github and run in node terminal or via the console in VS Code
 
   ## Credits
 
-  asdfas
+  NodeJS, JavaScript, Inquirer
 
   ## License
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   
   ## Features
 
-  afsdfa
+  ^C
 
   ## How to Contribute
 
-  fadsfas
+  No contribution necessary, feedback always appreciated.
 
